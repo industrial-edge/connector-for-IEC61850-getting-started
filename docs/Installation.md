@@ -10,7 +10,7 @@ This guide demonstrates the setup and configuration of the Industrial Edge Conne
 - [App Installation](#app-installation)
 - [Connector for IEC 61850 Configuration](#connector-for-iec-61850-configuration)
 - [Data Management](#data-management)
-
+- [Extra: Visualization with Energy Manager](#extra-energy-manager---visualization)
 
 ## Description
 
@@ -180,3 +180,8 @@ In the `Preview` tab, attributes can be visualized. Attributes can be added to t
   <em></em>
 </p>
 
+# Extra: Energy Manager - Visualization
+
+The Energy Manager App for Industrial Edge is a specialized application designed to collect, process, and visualize energy-related data within the Siemens Industrial Edge ecosystem.
+
+The [Energy Manager How To](https://github.com/industrial-edge/energy-manager-getting-started) can be followed to create dashboards to visualize the values from the IED.

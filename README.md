@@ -50,11 +50,14 @@ In this example, we outline the process of configuring a connection between an I
 
 You can find further information about the following steps in the [Configuration](/docs/Installation.md) documentation:
 
-- [Overview](/docs/Installation.md#overview)
-- [Install Connector for IEC 61850](/docs/Installation.md#installation)
-- [Prepare IEC 61850 Intelligent Electronic Device (IED)](/docs/Installation.md#ied-preparation)
-- [Configure Connector for IEC 61850 via Common Configurator](/docs/Installation.md#connector-for-iec-61850-configuration)
-- [Map IEC 61850 Data Points to Databus](/docs/Installation.md#data-point-mapping)
+- [Overview](#overview)
+- [Prerequisites](#prerequisites)
+- [Used Components](#used-components)
+- [IEC 61850 Server (IED/Simulator) Preparation](#iec-61850-server-simulator-preparation)
+- [App Installation](#app-installation)
+- [Connector for IEC 61850 Configuration](#connector-for-iec-61850-configuration)
+- [Data Management](#data-management)
+- [Extra: Visualization with Energy Manager](#extra-energy-manager---visualization)
 
 ## Usage
 
