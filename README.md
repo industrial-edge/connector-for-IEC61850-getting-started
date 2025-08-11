@@ -50,14 +50,14 @@ In this example, we outline the process of configuring a connection between an I
 
 You can find further information about the following steps in the [Configuration](/docs/Installation.md) documentation:
 
-- [Overview](#overview)
-- [Prerequisites](#prerequisites)
-- [Used Components](#used-components)
-- [IEC 61850 Server (IED/Simulator) Preparation](#iec-61850-server-simulator-preparation)
-- [App Installation](#app-installation)
-- [Connector for IEC 61850 Configuration](#connector-for-iec-61850-configuration)
-- [Data Management](#data-management)
-- [Extra: Visualization with Energy Manager](#extra-energy-manager---visualization)
+- [Overview](#)
+- [Prerequisites](/docs/Installation.md#overview)
+- [Used Components](/docs/Installation.md#used-components)
+- [IEC 61850 Server (IED/Simulator) Preparation](/docs/Installation.md#iec-61850-server-simulator-preparation)
+- [App Installation](/docs/Installation.md#app-installation)
+- [Connector for IEC 61850 Configuration](/docs/Installation.md#connector-for-iec-61850-configuration)
+- [Data Management](/docs/Installation.md#data-management)
+- [Extra: Visualization with Energy Manager](/docs/Installation.md#extra-energy-manager---visualization)
 
 ## Usage
 
