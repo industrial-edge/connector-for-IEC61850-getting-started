@@ -117,7 +117,7 @@ Once the IEC 61850 server connection is established:
 1.  Navigate to the `Tags` tab for your newly added Data Source.
 
 <p align="center">
-  <img src="../graphics/addtags1.png" alt="Browse Tags Interface" >
+  <img src="../graphics/addTags1.png" alt="Browse Tags Interface" >
   <br>
 </p>
 
